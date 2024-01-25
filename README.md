@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ettione C. Stuckey II (@stvckey) 
-- 👀 I’m Computer Science student at Georgia State University with a strong interest in software and web development.
-- 🌱 I’m currently learning React and Databases
-- 💞️ I’m looking to collaborate on web applications.
+- 👀 I'm a Georgis State Alumn with a degree in Computer Science.
 - 📫 How to reach me: Contact my email: <ettionestuckeyii@gmail.com> or connect with me on LinkedIn: <https://www.linkedin.com/in/ettione-stuckey-ii-143b8a242/>
 
 <!---
